@@ -1,0 +1,22 @@
+html{
+    background-color: teal;
+}
+div{
+    text-align: center;
+    max-width: 50%;
+    margin-left: 25%;
+    margin-top: 150px
+}
+img{
+    height: 300px;
+    width: 100%;
+    border: 5px solid white;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
+.center{
+    text-align: center;
+    color: white;
+}
